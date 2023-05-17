@@ -32,4 +32,4 @@ function WeatherCard(props) {
   );
 }
 
-module.exports = WeatherCard;
+module.exports = WeatherCard
